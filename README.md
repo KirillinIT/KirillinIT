@@ -15,37 +15,37 @@
 
 ## Мой Стек
 
-# Основа основ:
+### Основа основ:
 - Python
 - SQL (PostgreSQL)
 - Git (изучал с помощью [песочницы](https://learngitbranching.js.org/?locale=ru_RU))
 - Spark
 
-# Аналитика данных:
+### Аналитика данных:
 - Pandas
 - Scikit-Learn
 - NumPy
 - Statsmodels
 
-# Визуализация:
+### Визуализация:
 - Matplotlib
 - Seaborn
 - Plotly
 
-# Машинное обучение:
+### Машинное обучение:
 - Regression: Linear, Logistic
 - Trees: Decision Tree, Random Forest
 - Boosting: XGBoost, LightGBM, CatBoost
 
-# Нейронные сети:
+### Нейронные сети:
 - PyTorch
 - TensorFlow
 - Transformers
 
-# NLP:
+### NLP:
 - BERT
 
-# Временные ряды:
+### Временные ряды:
 - Arima
 - Prophet (и Kats смотрел)
 - LSTM (уже не модно, но изучал)
