@@ -26,6 +26,7 @@
 - Scikit-Learn
 - NumPy
 - Statsmodels
+- Pandas Profiling (библиотека крутая и здорово помогает сделать первые выводы по данным)
 
 ### Визуализация:
 - Matplotlib
