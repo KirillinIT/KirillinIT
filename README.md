@@ -32,7 +32,7 @@
 - Seaborn
 - Plotly
 
-### Машинное обучение:
+### Машинное обучение (самые часто используемые):
 - Regression: Linear, Logistic
 - Trees: Decision Tree, Random Forest
 - Boosting: XGBoost, LightGBM, CatBoost
